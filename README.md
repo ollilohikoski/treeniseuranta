@@ -21,7 +21,7 @@ Treeniseuranta is a web application designed to track and analyze the basketball
 
 1. **Clone the Repository**
   ```bash
-  git clone https://github.com/olliglorioso/treeniseuranta.git
+  git clone https://github.com/ollilohikoski/treeniseuranta.git
   cd treeniseuranta
   ```
 
